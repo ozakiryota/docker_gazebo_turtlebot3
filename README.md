@@ -3,6 +3,11 @@
 ## Demo
 ![image](https://user-images.githubusercontent.com/37431972/178087611-eb5fd292-c4c1-42ce-b359-a636f227bfed.png)
 
+## Requirements
+* Docker
+* Nvidia Driver
+* Nvidia Container Runtime
+
 ## Installation
 ```bash
 git clone https://github.com/ozakiryota/docker_gazebo_turtlebot3.git
