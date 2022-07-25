@@ -26,7 +26,7 @@ RUN apt-get update && \
 	apt-get install -y \
 		ros-noetic-gazebo-ros-pkgs \
 		ros-noetic-rviz
-########## Turtlebo3 ##########
+########## Turtlebot3 ##########
 RUN apt-get update && \
 	apt-get install -y \
 		ros-noetic-turtlebot3-gazebo \
